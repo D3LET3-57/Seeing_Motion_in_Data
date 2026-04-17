@@ -1,0 +1,25 @@
+Model,γ Operator,Accuracy (%),F1 Macro (%)
+LeNet-5,γ₁ Component,79.98,79.83
+LeNet-5,γ₂ AccVsGyro,86.80,86.74
+LeNet-5,γ₃ CentBodyAcc,83.37,83.12
+LeNet-5,γ₄ CentGyro,88.53,88.40
+LeNet-5,γ₅ Random1,87.07,86.97
+LeNet-5,γ₆ Random2,87.85,87.71
+VGG-Style,γ₁ Component,89.58,89.71
+VGG-Style,γ₂ AccVsGyro,87.78,87.20
+VGG-Style,γ₃ CentBodyAcc,89.82,89.84
+VGG-Style,γ₄ CentGyro,85.37,85.23
+VGG-Style,γ₅ Random1,89.38,89.35
+VGG-Style,γ₆ Random2,91.31,91.30
+ResNet-Style,γ₁ Component,90.70,90.74
+ResNet-Style,γ₂ AccVsGyro,90.70,90.72
+ResNet-Style,γ₃ CentBodyAcc,92.13,92.12
+ResNet-Style,γ₄ CentGyro,91.25,91.17
+ResNet-Style,γ₅ Random1,89.72,89.67
+ResNet-Style,γ₆ Random2,91.65,91.66
+Lightweight,γ₁ Component,90.09,90.07
+Lightweight,γ₂ AccVsGyro,90.23,90.33
+Lightweight,γ₃ CentBodyAcc,89.35,88.99
+Lightweight,γ₄ CentGyro,90.70,90.75
+Lightweight,γ₅ Random1,91.69,91.68
+Lightweight,γ₆ Random2,89.92,89.94
